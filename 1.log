@@ -1,0 +1,866 @@
+--------- beginning of /dev/log/system
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/ActivityManager(  929): No longer want org.simalliance.openmobileapi.service:remote (pid 21271): empty for 1854s
+W/ActivityManager(  929): Scheduling restart of crashed service org.simalliance.openmobileapi.service/.SmartcardService in 5000ms
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/ActivityManager(  929): Start proc org.simalliance.openmobileapi.service:remote for service org.simalliance.openmobileapi.service/.SmartcardService: pid=25950 uid=10067 gids={50067, 1028}
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/ActivityManager(  929): No longer want com.android.mms (pid 16216): empty for 1824s
+W/ThrottleService(  929): unable to find stats for iface rmnet0
+D/CountryDetector(  929): No listener is left
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+W/ProcessStats(  929): Skipping unknown process pid 26105
+W/ProcessStats(  929): Skipping unknown process pid 26106
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/VolumeVibrator( 1813): clear
+V/InputMethodManagerService(  929): SoftKeypad HIDE broadcast
+W/ContextImpl(  929): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 com.android.server.InputMethodManagerService.hideCurrentInputLocked:1832 com.android.server.InputMethodManagerService.windowGainedFocus:1938 com.android.internal.view.IInputMethodManager$Stub.onTransact:224 com.android.server.InputMethodManagerService.onTransact:841 
+I/ActivityManager(  929): No longer want com.lge.sync (pid 21719): empty for 1806s
+W/ActivityManager(  929): Scheduling restart of crashed service com.lge.sync/.obex.ObexService in 5000ms
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/ActivityManager(  929): Start proc com.lge.sync for service com.lge.sync/.obex.ObexService: pid=26257 uid=1000 gids={41000, 1006, 1015, 3002, 3001, 3003, 1028, 1002, 3008, 1004, 2002, 1007, 1009, 5000, 2001, 4002, 1023, 1021, 3004, 3005, 1000, 3009, 3007}
+D/WifiService(  929): New client listening to asynchronous messages
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+V/InputMethodManagerService(  929): SoftKeypad HIDE broadcast
+W/ContextImpl(  929): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 com.android.server.InputMethodManagerService.hideCurrentInputLocked:1832 com.android.server.InputMethodManagerService.windowGainedFocus:1938 com.android.internal.view.IInputMethodManager$Stub.onTransact:224 com.android.server.InputMethodManagerService.onTransact:841 
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/ActivityManager(  929): No longer want com.android.settings (pid 21844): empty for 1826s
+I/ActivityManager(  929): No longer want com.lge.osp (pid 21805): empty for 1836s
+W/ActivityManager(  929): Scheduling restart of crashed service com.lge.osp/.OSPService in 5000ms
+W/ActivityManager(  929): Scheduling restart of crashed service com.android.settings/.quietmode.QuietModeSettingsService in 14997ms
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/ActivityManager(  929): Start proc com.lge.osp for service com.lge.osp/.OSPService: pid=26413 uid=10058 gids={50058, 1000, 1003, 1002, 1001, 1005, 3009, 3008, 3002, 3001, 1015, 3003, 4002, 1028}
+I/ActivityManager(  929): Start proc com.android.settings for service com.android.settings/.quietmode.QuietModeSettingsService: pid=26453 uid=1000 gids={41000, 1006, 1015, 3002, 3001, 3003, 1028, 1002, 3008, 1004, 2002, 1007, 1009, 5000, 2001, 4002, 1023, 1021, 3004, 3005, 1000, 3009, 3007}
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/VolumeVibrator( 1813): clear
+V/InputMethodManagerService(  929): SoftKeypad HIDE broadcast
+W/ContextImpl(  929): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 com.android.server.InputMethodManagerService.hideCurrentInputLocked:1832 com.android.server.InputMethodManagerService.windowGainedFocus:1938 com.android.internal.view.IInputMethodManager$Stub.onTransact:224 com.android.server.InputMethodManagerService.onTransact:841 
+D/VolumeVibrator( 1813): clear
+I/ActivityManager(  929): Config changes=480 {1.0 ?mcc?mnc en_US ldltr sw360dp w360dp h614dp 240dpi nrml long port finger -keyb/v/h -nav/h s.31-1fontTypeIndex}
+D/VolumeVibrator( 1813): clear
+D/ConnectivityService(  929): onUidRulesChanged(uid=10048, uidRules=0)
+E/ActivityThread( 1775): Failed to find provider info for com.lge.lollipop.provider
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to ProcessRecord{424c1a78 1741:com.lge.ime/u0a10041} (pid=1741, uid=10041) requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to ProcessRecord{424c0978 3344:com.lge.sizechangable.weather/u0a10077} (pid=3344, uid=10077) requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to ProcessRecord{424f96b0 25207:com.lge.sizechangable.musicwidget.widget/u0a10057} (pid=25207, uid=10057) requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to com.android.calendar/.widget.CalendarAppWidgetProvider requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/ContextImpl( 6073): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 android.content.ContextWrapper.sendBroadcast:338 com.lge.lmk.widget.WidgetUpdater.changeWidgetTheme:66 com.lge.lmk.widget.WidgetUpdater.access$200:16 com.lge.lmk.widget.WidgetUpdater$1.onReceive:46 
+V/InputMethodManagerService(  929): SoftKeypad HIDE broadcast
+W/ContextImpl(  929): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 com.android.server.InputMethodManagerService.hideCurrentInputLocked:1832 com.android.server.InputMethodManagerService.windowGainedFocus:1938 com.android.internal.view.IInputMethodManager$Stub.onTransact:224 com.android.server.InputMethodManagerService.onTransact:841 
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to com.lge.email/.ui.widget.EmailWidgetProvider requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to com.lge.appwidget.flashlight/.FlashlightAppWidgetProvider requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to com.lge.lockscreensettings/.LockSettingsReceiver requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to com.lge.sizechangable.photoalbum/.PhotoAppWidgetReceiver requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+D/VolumeVibrator( 1813): clear
+D/ConnectivityService(  929): onUidRulesChanged(uid=10134, uidRules=0)
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(1), SimInserted=false
+D/VolumeVibrator( 1813): clear
+D/VolumeVibrator( 1813): clear
+D/VolumeVibrator( 1813): clear
+W/ContextImpl( 6073): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 android.content.ContextWrapper.sendBroadcast:338 android.media.MediaPlayer$A2dpHandler.handleMessage:2071 android.os.Handler.dispatchMessage:99 android.os.Looper.loop:137 
+W/ContextImpl( 6073): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 android.content.ContextWrapper.sendBroadcast:338 com.lge.lmk.widget.WidgetUpdater$UpdateThread.handleMessage:155 android.os.Handler.dispatchMessage:95 android.os.Looper.loop:137 
+I/ActivityManager(  929): Killing proc 25289:com.lge.smartshare.provider/u0a10095: kill background
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 24429:com.google.android.apps.maps:FriendService/u0a10016: kill background
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 24442:com.google.android.apps.maps:LocationFriendService/u0a10016: kill background
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 24407:com.google.android.apps.maps:GoogleLocationService/u0a10016: kill background
+W/ActivityManager(  929): Scheduling restart of crashed service com.google.android.apps.maps/com.google.android.location.internal.server.GoogleLocationService in 5000ms
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 8659:com.google.android.apps.maps/u0a10016: kill background
+W/ActivityManager(  929): Scheduling restart of crashed service com.google.android.apps.maps/com.google.googlenav.prefetch.android.PrefetcherService in 14997ms
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 25354:com.lge.email/u0a10043: kill background
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 10579:com.lge.lockscreensettings/u0a10052: kill background
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 18412:se.nena.nenamark2/u0a10135: kill background
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 25388:se.nena.nenamark1/u0a10134: kill background
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 25317:com.lge.appwidget.flashlight/u0a10045: kill background
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+D/VolumeVibrator( 1813): clear
+I/ActivityManager(  929): START u0 {act=com.android.systemui.recent.action.TOGGLE_RECENTS flg=0x10800000 cmp=com.android.systemui/.recent.RecentsActivity} from pid 1678
+I/ActivityManager(  929): Start proc com.android.mms for broadcast com.android.mms/.msgposter.OtherNotiReceiver: pid=26856 uid=10055 gids={50055, 3003, 1015, 4002, 3002, 1028}
+V/InputMethodManagerService(  929): SoftKeypad HIDE broadcast
+W/ContextImpl(  929): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 com.android.server.InputMethodManagerService.hideCurrentInputLocked:1832 com.android.server.InputMethodManagerService.windowGainedFocus:1938 com.android.internal.view.IInputMethodManager$Stub.onTransact:224 com.android.server.InputMethodManagerService.onTransact:841 
+D/CountryDetector(  929): The first listener is added
+I/ActivityManager(  929): Start proc android.process.acore for content provider com.android.providers.contacts/.contact.ContactsProvider2ForLG: pid=26896 uid=10003 gids={50003, 3003, 1015, 1023, 4002, 1028}
+D/ConnectivityService(  929): onUidRulesChanged(uid=10048, uidRules=0)
+D/VolumeVibrator( 1813): clear
+D/ConnectivityService(  929): onUidRulesChanged(uid=10048, uidRules=0)
+I/ActivityManager(  929): Start proc com.lge.appwidget.flashlight for broadcast com.lge.appwidget.flashlight/.FlashlightAppWidgetProvider: pid=26950 uid=10045 gids={50045, 1006, 1028}
+V/InputMethodManagerService(  929): SoftKeypad HIDE broadcast
+W/ContextImpl(  929): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 com.android.server.InputMethodManagerService.hideCurrentInputLocked:1832 com.android.server.InputMethodManagerService.windowGainedFocus:1938 com.android.internal.view.IInputMethodManager$Stub.onTransact:224 com.android.server.InputMethodManagerService.onTransact:841 
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/ActivityManager(  929): Start proc com.google.android.apps.maps:GoogleLocationService for service com.google.android.apps.maps/com.google.android.location.internal.server.GoogleLocationService: pid=26983 uid=10016 gids={50016, 3003, 1015, 1028}
+D/WifiService(  929): New client listening to asynchronous messages
+I/ActivityManager(  929): Start proc com.lge.email for content provider com.lge.email/.providers.LGEmailContentProvider: pid=27014 uid=10043 gids={50043, 3003, 4002, 1015, 3001, 3002, 1028}
+W/ActivityManager(  929): Unable to start service Intent { act=com.lge.email.engine.action.START_PROTOCOLS cmp=com.lge.email/.adapter.event.mgr.ProtocolStarterService } U=0: not found
+D/WifiService(  929): acquireWifiLockLocked: WifiLock{NetworkLocationLocator type=2 binder=android.os.BinderProxy@4276f570}
+I/ActivityManager(  929): Start proc com.google.android.apps.maps:FriendService for broadcast com.google.android.apps.maps/com.google.googlenav.friend.android.ServiceReceiver: pid=27040 uid=10016 gids={50016, 3003, 1015, 1028}
+D/WifiService(  929): releaseWifiLockLocked: WifiLock{NetworkLocationLocator type=2 binder=android.os.BinderProxy@4276f570}
+W/ActivityManager(  929): Permission denied: checkComponentPermission() owningUid=10007
+W/BroadcastQueue(  929): Permission Denial: broadcasting Intent { act=com.google.android.location.internal.server.ACTION_RESTARTED flg=0x10 } from com.google.android.apps.maps (pid=26983, uid=10016) is not exported from uid 10007 due to receiver com.google.android.gms/com.google.android.location.reporting.service.ExternalChangeReceiver
+I/ActivityManager(  929): Start proc com.google.android.apps.maps:LocationFriendService for broadcast com.google.android.apps.maps/com.google.googlenav.friend.reporting.LocationReportingIntentReceiver: pid=27057 uid=10016 gids={50016, 3003, 1015, 1028}
+I/ActivityManager(  929): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=se.nena.nenamark1/.NenaMark1} from pid 6874
+I/ActivityManager(  929): Start proc se.nena.nenamark1 for activity se.nena.nenamark1/.NenaMark1: pid=27098 uid=10134 gids={50134, 3003, 1028}
+I/ActivityManager(  929): Config changes=480 {1.0 ?mcc?mnc en_US ldltr sw360dp w640dp h334dp 240dpi nrml long land finger -keyb/v/h -nav/h s.32-1fontTypeIndex}
+D/ConnectivityService(  929): onUidRulesChanged(uid=10134, uidRules=0)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to ProcessRecord{424c1a78 1741:com.lge.ime/u0a10041} (pid=1741, uid=10041) requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to ProcessRecord{424c0978 3344:com.lge.sizechangable.weather/u0a10077} (pid=3344, uid=10077) requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to ProcessRecord{424f96b0 25207:com.lge.sizechangable.musicwidget.widget/u0a10057} (pid=25207, uid=10057) requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to com.android.calendar/.widget.CalendarAppWidgetProvider requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+E/ActivityThread( 1775): Failed to find provider info for com.lge.lollipop.provider
+W/ContextImpl( 6073): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 android.content.ContextWrapper.sendBroadcast:338 com.lge.lmk.widget.WidgetUpdater.changeWidgetTheme:66 com.lge.lmk.widget.WidgetUpdater.access$200:16 com.lge.lmk.widget.WidgetUpdater$1.onReceive:46 
+I/ActivityManager(  929): Start proc com.lge.lockscreensettings for content provider com.lge.lockscreensettings/.LockSettingsProvider: pid=27115 uid=10052 gids={50052, 1028}
+V/ActivityThread(27098): Benchmark is Detected, Dummy Info is set : se.nena.nenamark1
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to com.lge.email/.ui.widget.EmailWidgetProvider requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to com.lge.appwidget.flashlight/.FlashlightAppWidgetProvider requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to com.lge.lockscreensettings/.LockSettingsReceiver requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to com.lge.sizechangable.photoalbum/.PhotoAppWidgetReceiver requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+V/InputMethodManagerService(  929): SoftKeypad HIDE broadcast
+W/ContextImpl(  929): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 com.android.server.InputMethodManagerService.hideCurrentInputLocked:1832 com.android.server.InputMethodManagerService.windowGainedFocus:1938 com.android.internal.view.IInputMethodManager$Stub.onTransact:224 com.android.server.InputMethodManagerService.onTransact:841 
+D/ConnectivityService(  929): onUidRulesChanged(uid=10048, uidRules=0)
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(1), SimInserted=false
+I/ActivityManager(  929): Start proc com.google.android.apps.maps for service com.google.android.apps.maps/com.google.googlenav.prefetch.android.PrefetcherService: pid=27165 uid=10016 gids={50016, 3003, 1015, 1028}
+D/WifiService(  929): New client listening to asynchronous messages
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+V/InputMethodManagerService(  929): SoftKeypad HIDE broadcast
+W/ContextImpl(  929): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 com.android.server.InputMethodManagerService.hideCurrentInputLocked:1832 com.android.server.InputMethodManagerService.windowGainedFocus:1938 com.android.internal.view.IInputMethodManager$Stub.onTransact:224 com.android.server.InputMethodManagerService.onTransact:841 
+D/VolumeVibrator( 1813): clear
+D/VolumeVibrator( 1813): clear
+V/InputMethodManagerService(  929): SoftKeypad HIDE broadcast
+W/ContextImpl(  929): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 com.android.server.InputMethodManagerService.hideCurrentInputLocked:1832 com.android.server.InputMethodManagerService.windowGainedFocus:1938 com.android.internal.view.IInputMethodManager$Stub.onTransact:224 com.android.server.InputMethodManagerService.onTransact:841 
+D/VolumeVibrator( 1813): clear
+I/ActivityManager(  929): Config changes=480 {1.0 ?mcc?mnc en_US ldltr sw360dp w360dp h614dp 240dpi nrml long port finger -keyb/v/h -nav/h s.33-1fontTypeIndex}
+D/VolumeVibrator( 1813): clear
+D/ConnectivityService(  929): onUidRulesChanged(uid=10048, uidRules=0)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to ProcessRecord{424c1a78 1741:com.lge.ime/u0a10041} (pid=1741, uid=10041) requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to ProcessRecord{424c0978 3344:com.lge.sizechangable.weather/u0a10077} (pid=3344, uid=10077) requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to ProcessRecord{424f96b0 25207:com.lge.sizechangable.musicwidget.widget/u0a10057} (pid=25207, uid=10057) requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+E/ActivityThread( 1775): Failed to find provider info for com.lge.lollipop.provider
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to com.android.calendar/.widget.CalendarAppWidgetProvider requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/ContextImpl( 6073): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 android.content.ContextWrapper.sendBroadcast:338 com.lge.lmk.widget.WidgetUpdater.changeWidgetTheme:66 com.lge.lmk.widget.WidgetUpdater.access$200:16 com.lge.lmk.widget.WidgetUpdater$1.onReceive:46 
+V/InputMethodManagerService(  929): SoftKeypad HIDE broadcast
+W/ContextImpl(  929): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 com.android.server.InputMethodManagerService.hideCurrentInputLocked:1832 com.android.server.InputMethodManagerService.windowGainedFocus:1938 com.android.internal.view.IInputMethodManager$Stub.onTransact:224 com.android.server.InputMethodManagerService.onTransact:841 
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to com.lge.email/.ui.widget.EmailWidgetProvider requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to com.lge.appwidget.flashlight/.FlashlightAppWidgetProvider requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to com.lge.lockscreensettings/.LockSettingsReceiver requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+W/BroadcastQueue(  929): Permission Denial: receiving Intent { act=android.intent.action.THEME_PACKAGE_CHANGED flg=0x10 } to com.lge.sizechangable.photoalbum/.PhotoAppWidgetReceiver requires com.lge.permission.ACCESS_CLOCK_WIDGET due to sender com.lge.appwidget.clock (uid 10037)
+D/VolumeVibrator( 1813): clear
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(1), SimInserted=false
+D/ConnectivityService(  929): onUidRulesChanged(uid=10134, uidRules=0)
+D/VolumeVibrator( 1813): clear
+D/VolumeVibrator( 1813): clear
+D/VolumeVibrator( 1813): clear
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/VolumeVibrator( 1813): clear
+I/ActivityManager(  929): START u0 {act=com.android.systemui.recent.action.TOGGLE_RECENTS flg=0x10800000 cmp=com.android.systemui/.recent.RecentsActivity} from pid 1678
+V/InputMethodManagerService(  929): SoftKeypad HIDE broadcast
+W/ContextImpl(  929): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 com.android.server.InputMethodManagerService.hideCurrentInputLocked:1832 com.android.server.InputMethodManagerService.windowGainedFocus:1938 com.android.internal.view.IInputMethodManager$Stub.onTransact:224 com.android.server.InputMethodManagerService.onTransact:841 
+D/ConnectivityService(  929): onUidRulesChanged(uid=10048, uidRules=0)
+I/ActivityManager(  929): Killing 27098:se.nena.nenamark1/u0a10134: remove task
+D/VolumeVibrator( 1813): clear
+D/ConnectivityService(  929): onUidRulesChanged(uid=10048, uidRules=0)
+V/InputMethodManagerService(  929): SoftKeypad HIDE broadcast
+W/ContextImpl(  929): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 com.android.server.InputMethodManagerService.hideCurrentInputLocked:1832 com.android.server.InputMethodManagerService.windowGainedFocus:1938 com.android.internal.view.IInputMethodManager$Stub.onTransact:224 com.android.server.InputMethodManagerService.onTransact:841 
+W/InputMethodManagerService(  929): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@429f6c80 (uid=10069 pid=1678)
+W/ProcessStats(  929): Skipping unknown process pid 27390
+W/ProcessStats(  929): Skipping unknown process pid 27391
+W/ProcessStats(  929): Skipping unknown process pid 27395
+W/ProcessStats(  929): Skipping unknown process pid 27398
+W/ContextImpl( 6073): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 android.content.ContextWrapper.sendBroadcast:338 android.media.MediaPlayer$A2dpHandler.handleMessage:2071 android.os.Handler.dispatchMessage:99 android.os.Looper.loop:137 
+I/ActivityManager(  929): Killing proc 26896:android.process.acore/u0a10003: kill background
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 27040:com.google.android.apps.maps:FriendService/u0a10016: kill background
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 27057:com.google.android.apps.maps:LocationFriendService/u0a10016: kill background
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 26983:com.google.android.apps.maps:GoogleLocationService/u0a10016: kill background
+W/ActivityManager(  929): Scheduling restart of crashed service com.google.android.apps.maps/com.google.android.location.internal.server.GoogleLocationService in 5000ms
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 27165:com.google.android.apps.maps/u0a10016: kill background
+W/ActivityManager(  929): Scheduling restart of crashed service com.google.android.apps.maps/com.google.googlenav.prefetch.android.PrefetcherService in 59988ms
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 27014:com.lge.email/u0a10043: kill background
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 26856:com.android.mms/u0a10055: kill background
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 27115:com.lge.lockscreensettings/u0a10052: kill background
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+I/ActivityManager(  929): Killing proc 26950:com.lge.appwidget.flashlight/u0a10045: kill background
+I/ActivityManager(  929):  removeProcessLocked app.persistent = false callerWillRestart = false
+D/CountryDetector(  929): No listener is left
+I/ActivityManager(  929): Start proc com.lge.email for content provider com.lge.email/.providers.LGEmailContentProvider: pid=27435 uid=10043 gids={50043, 3003, 4002, 1015, 3001, 3002, 1028}
+W/ActivityManager(  929): Unable to start service Intent { act=com.lge.email.engine.action.START_PROTOCOLS cmp=com.lge.email/.adapter.event.mgr.ProtocolStarterService } U=0: not found
+I/PowerManagerService(  929): Going to sleep by user request...
+D/VolumeVibrator( 1813): clear
+W/ContextImpl(  929): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1044 com.android.internal.policy.impl.PhoneWindowManager.interceptKeyBeforeQueueing:5115 com.android.server.wm.InputMonitor.interceptKeyBeforeQueueing:361 com.android.server.input.InputManagerService.interceptKeyBeforeQueueing:1322 dalvik.system.NativeStart.run:-2 
+D/ConnectivityService(  929): onUidRulesChanged(uid=10048, uidRules=0)
+I/EmotionalLed( 1813): getCurrentHighestLGLedRecord() start. mLedList.size=1
+D/VolumeVibrator( 1813): clear
+I/EmotionalLed( 1813): updateLightsLocked() start. mLedList.size=1
+D/StatusBarManager(  929): StatusBarManager.disable(0x3000000) called from android
+D/StatusBarManager(  929): DISABLE_SEARCH found, GlobalAccess(SearchPanel) will be disabled by android
+I/StatusBarManager(  929): ===============================
+I/StatusBarManager(  929): java.lang.RuntimeException: StatusBarManager.disable(0x3000000) Call Stack
+I/StatusBarManager(  929): 	at android.app.StatusBarManager.disable(StatusBarManager.java:115)
+I/StatusBarManager(  929): 	at com.android.internal.policy.impl.keyguard.KeyguardViewMediator.adjustStatusBarLocked(KeyguardViewMediator.java:2032)
+I/StatusBarManager(  929): 	at com.android.internal.policy.impl.keyguard.KeyguardViewMediator.handleShow(KeyguardViewMediator.java:1923)
+I/StatusBarManager(  929): 	at com.android.internal.policy.impl.keyguard.KeyguardViewMediator.access$3100(KeyguardViewMediator.java:110)
+I/StatusBarManager(  929): 	at com.android.internal.policy.impl.keyguard.KeyguardViewMediator$5.handleMessage(KeyguardViewMediator.java:1714)
+I/StatusBarManager(  929): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+I/StatusBarManager(  929): 	at android.os.Looper.loop(Looper.java:137)
+I/StatusBarManager(  929): 	at android.os.HandlerThread.run(HandlerThread.java:60)
+D/PhoneStatusBar( 1678): disable: < expand icons alerts ticker system_info back home RECENT* clock SEARCH* >
+D/PhoneStatusBar( 1678): disable: < expand icons alerts ticker system_info BACK* HOME* RECENT clock SEARCH >
+I/ActivityManager(  929): Start proc com.google.android.apps.maps:GoogleLocationService for service com.google.android.apps.maps/com.google.android.location.internal.server.GoogleLocationService: pid=27489 uid=10016 gids={50016, 3003, 1015, 1028}
+D/WifiService(  929): New client listening to asynchronous messages
+I/ActivityManager(  929): Start proc com.google.android.apps.maps:FriendService for broadcast com.google.android.apps.maps/com.google.googlenav.friend.android.ServiceReceiver: pid=27517 uid=10016 gids={50016, 3003, 1015, 1028}
+D/WifiService(  929): acquireWifiLockLocked: WifiLock{NetworkLocationLocator type=2 binder=android.os.BinderProxy@425bc320}
+D/WifiService(  929): releaseWifiLockLocked: WifiLock{NetworkLocationLocator type=2 binder=android.os.BinderProxy@425bc320}
+W/ActivityManager(  929): Permission denied: checkComponentPermission() owningUid=10007
+W/BroadcastQueue(  929): Permission Denial: broadcasting Intent { act=com.google.android.location.internal.server.ACTION_RESTARTED flg=0x10 } from com.google.android.apps.maps (pid=27489, uid=10016) is not exported from uid 10007 due to receiver com.google.android.gms/com.google.android.location.reporting.service.ExternalChangeReceiver
+I/ActivityManager(  929): Start proc com.google.android.apps.maps:LocationFriendService for broadcast com.google.android.apps.maps/com.google.googlenav.friend.reporting.LocationReportingIntentReceiver: pid=27531 uid=10016 gids={50016, 3003, 1015, 1028}
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/EmotionalLed( 1813): getCurrentHighestLGLedRecord() start. mLedList.size=1
+V/EmotionalLed( 1813): startInternal : pkg=batteryinfo, recordId=0 : LGLedRecord{4273c158 flags=0 patternId=3 color=0 priority=-1 recordId=0 pkg=batteryinfo mExceptional=false mNativeNotification=false whichLedPlay=0}
+D/EmotionalLed( 1813): enqueuing start. mLedList.size()=0
+I/EmotionalLed( 1813): updateLightsLocked() start. mLedList.size=1
+D/EmotionalLed( 1813): enqueuing end. mLedList.size()=1
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/ActivityManager(  929): Start proc com.google.android.apps.maps for service com.google.android.apps.maps/com.google.googlenav.prefetch.android.PrefetcherService: pid=27693 uid=10016 gids={50016, 3003, 1015, 1028}
+D/WifiService(  929): New client listening to asynchronous messages
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+W/ThrottleService(  929): unable to find stats for iface rmnet0
+W/SocketClient(  300): write error (Broken pipe)
+I/EmotionalLed( 1813): getCurrentHighestLGLedRecord() start. mLedList.size=1
+V/EmotionalLed( 1813): startInternal : pkg=batteryinfo, recordId=0 : LGLedRecord{427b6d78 flags=0 patternId=3 color=0 priority=-1 recordId=0 pkg=batteryinfo mExceptional=false mNativeNotification=false whichLedPlay=0}
+D/EmotionalLed( 1813): enqueuing start. mLedList.size()=0
+I/EmotionalLed( 1813): updateLightsLocked() start. mLedList.size=1
+D/EmotionalLed( 1813): enqueuing end. mLedList.size()=1
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/EmotionalLed( 1813): getCurrentHighestLGLedRecord() start. mLedList.size=1
+V/EmotionalLed( 1813): startInternal : pkg=batteryinfo, recordId=0 : LGLedRecord{427b5ca0 flags=0 patternId=3 color=0 priority=-1 recordId=0 pkg=batteryinfo mExceptional=false mNativeNotification=false whichLedPlay=0}
+D/EmotionalLed( 1813): enqueuing start. mLedList.size()=0
+I/EmotionalLed( 1813): updateLightsLocked() start. mLedList.size=1
+D/EmotionalLed( 1813): enqueuing end. mLedList.size()=1
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/ActivityManager(  929): No longer want com.lge.appbox.client (pid 23701): empty for 1854s
+I/ActivityManager(  929): No longer want com.lge.appbox.client:AppBoxCommonService (pid 23686): empty for 1854s
+I/ActivityManager(  929): No longer want com.google.android.music:main (pid 23737): empty for 1839s
+W/ActivityManager(  929): Scheduling restart of crashed service com.google.android.music/.playback.MusicPlaybackService in 5000ms
+I/ActivityManager(  929): Kill com.lge.appbox.client:AppBoxCommonService (pid 23686): provider com.lge.appbox.databases.AppBoxContentProvider in dying process com.lge.appbox.client
+W/ActivityManager(  929): Scheduling restart of crashed service com.lge.appbox.client/com.lge.appbox.service.AppBoxCommonService in 14991ms
+I/ActivityManager(  929): Start proc com.google.android.music:main for service com.google.android.music/.playback.MusicPlaybackService: pid=29081 uid=10083 gids={50083, 3003, 1015, 1028}
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/ActivityManager(  929): Start proc com.lge.appbox.client:AppBoxCommonService for service com.lge.appbox.client/com.lge.appbox.service.AppBoxCommonService: pid=29201 uid=10029 gids={50029, 3003, 1015, 2001, 1028}
+I/ActivityManager(  929): Start proc com.lge.appbox.client for content provider com.lge.appbox.client/com.lge.appbox.databases.AppBoxContentProvider: pid=29220 uid=10029 gids={50029, 3003, 1015, 2001, 1028}
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/EmotionalLed( 1813): getCurrentHighestLGLedRecord() start. mLedList.size=1
+V/EmotionalLed( 1813): startInternal : pkg=batteryinfo, recordId=0 : LGLedRecord{4275c5f0 flags=0 patternId=3 color=0 priority=-1 recordId=0 pkg=batteryinfo mExceptional=false mNativeNotification=false whichLedPlay=0}
+D/EmotionalLed( 1813): enqueuing start. mLedList.size()=0
+I/EmotionalLed( 1813): updateLightsLocked() start. mLedList.size=1
+D/EmotionalLed( 1813): enqueuing end. mLedList.size()=1
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+--------- beginning of /dev/log/main
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:128:onLayout()]sum = 522
+W/CellInfoLte( 1775): getCellIdentity: LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1963): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+W/CellInfoLte(27489): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/PhoneInterfaceManager( 1775): [PhoneIntfMgr] sigLevel = 0
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:55:onLayout()]================================
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:74:onLayout()]nTotalWidth = 522, r = 540
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:77:onLayout()]sum = 522, mIconSize = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:78:onLayout()]Notification 314==> 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:82:onLayout()]-----------------------
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{4241c690 G.E..... ......ID 9,0-9,38 #7f090078 app:id/operator_layout} ,w = 0
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:128:onLayout()]sum = 522
+W/CellInfoLte( 1775): getCellIdentity: LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1963): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(27489): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/PhoneInterfaceManager( 1775): [PhoneIntfMgr] sigLevel = 0
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:55:onLayout()]================================
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:74:onLayout()]nTotalWidth = 522, r = 540
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:77:onLayout()]sum = 522, mIconSize = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:78:onLayout()]Notification 314==> 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:82:onLayout()]-----------------------
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{4241c690 G.E..... ......ID 9,0-9,38 #7f090078 app:id/operator_layout} ,w = 0
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:128:onLayout()]sum = 522
+D/KeyguardUpdateMonitor(  929): handleTimeUpdate
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:55:onLayout()]================================
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:74:onLayout()]nTotalWidth = 522, r = 540
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:77:onLayout()]sum = 522, mIconSize = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:78:onLayout()]Notification 314==> 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:82:onLayout()]-----------------------
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{4241c690 G.E..... ......ID 9,0-9,38 #7f090078 app:id/operator_layout} ,w = 0
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:128:onLayout()]sum = 522
+D/DateLayout(  929): isFormat24Requested :true
+D/DateLayout(  929): hour :4	mintue :57
+D/DateLayout(  929): ampmTextClock : AM
+D/DateLayout(  929): setContentDescription :Monday, January 12 4 57
+D/DigitalClock(  929): isFormat24Requested :true
+D/DigitalClock(  929): hour :4	mintue :57
+D/DigitalClock(  929): ampmTextClock : AM
+D/DigitalClock(  929): setContentDescription :Monday, January 12 4 57
+D/KeyguardUpdateMonitor(  929): handleBatteryUpdate (2) (63)
+D/StatusBar.BatteryController( 1678): [BatteryController.java:126:onReceive()]level = 63 status = 2 isPlugged = true isCharging = true isFullCharged = false
+D/DockTangibleController( 1800): ACTION_BATTERY_CHANGED : 2
+I/LGPowerUI( 1678): [LGPowerUI.java:611:batteryThermNotification()]batteryThermNotification temperature : 310 isPlugged : true isCharging : true
+I/LGPowerUI( 1678): [LGPowerUI.java:621:batteryThermNotification()]StopCharging degree: 550
+D/PowerUI ( 1678): [PowerUI.java:231:onReceive()]chargingCurrent 0 --> 0
+D/LGPowerUI( 1678): [LGPowerUI.java:953:handleMessage()]MSG_BATTERY_STATUS_THERM_DISMISS
+W/CellInfoLte( 1775): getCellIdentity: LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1963): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(27489): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/PhoneInterfaceManager( 1775): [PhoneIntfMgr] sigLevel = 0
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:55:onLayout()]================================
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:74:onLayout()]nTotalWidth = 522, r = 540
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:77:onLayout()]sum = 522, mIconSize = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:78:onLayout()]Notification 314==> 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:82:onLayout()]-----------------------
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{4241c690 G.E..... ......ID 9,0-9,38 #7f090078 app:id/operator_layout} ,w = 0
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:128:onLayout()]sum = 522
+W/ProcessStats(  929): Skipping unknown process pid 29695
+W/ProcessStats(  929): Skipping unknown process pid 29696
+W/CellInfoLte( 1775): getCellIdentity: LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1963): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+W/CellInfoLte(27489): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/PhoneInterfaceManager( 1775): [PhoneIntfMgr] sigLevel = 0
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:55:onLayout()]================================
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:74:onLayout()]nTotalWidth = 522, r = 540
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:77:onLayout()]sum = 522, mIconSize = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:78:onLayout()]Notification 314==> 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:82:onLayout()]-----------------------
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{4241c690 G.E..... ......ID 9,0-9,38 #7f090078 app:id/operator_layout} ,w = 0
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:128:onLayout()]sum = 522
+W/CellInfoLte( 1775): getCellIdentity: LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1963): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+W/CellInfoLte(27489): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/PhoneInterfaceManager( 1775): [PhoneIntfMgr] sigLevel = 0
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:55:onLayout()]================================
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:74:onLayout()]nTotalWidth = 522, r = 540
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:77:onLayout()]sum = 522, mIconSize = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:78:onLayout()]Notification 314==> 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:82:onLayout()]-----------------------
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{4241c690 G.E..... ......ID 9,0-9,38 #7f090078 app:id/operator_layout} ,w = 0
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:128:onLayout()]sum = 522
+D/dalvikvm( 1678): GC_CONCURRENT freed 1968K, 43% free 8548K/14916K, paused 3ms+3ms, total 43ms
+W/ThrottleService(  929): unable to find stats for iface rmnet0
+D/KeyguardUpdateMonitor(  929): handleTimeUpdate
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:55:onLayout()]================================
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:74:onLayout()]nTotalWidth = 522, r = 540
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:77:onLayout()]sum = 522, mIconSize = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:78:onLayout()]Notification 314==> 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:82:onLayout()]-----------------------
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{4241c690 G.E..... ......ID 9,0-9,38 #7f090078 app:id/operator_layout} ,w = 0
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:128:onLayout()]sum = 522
+D/DateLayout(  929): isFormat24Requested :true
+D/DateLayout(  929): hour :4	mintue :58
+D/DateLayout(  929): ampmTextClock : AM
+D/DateLayout(  929): setContentDescription :Monday, January 12 4 58
+D/DigitalClock(  929): isFormat24Requested :true
+D/DigitalClock(  929): hour :4	mintue :58
+D/DigitalClock(  929): ampmTextClock : AM
+D/DigitalClock(  929): setContentDescription :Monday, January 12 4 58
+D/KeyguardUpdateMonitor(  929): handleBatteryUpdate (2) (63)
+D/StatusBar.BatteryController( 1678): [BatteryController.java:126:onReceive()]level = 63 status = 2 isPlugged = true isCharging = true isFullCharged = false
+D/DockTangibleController( 1800): ACTION_BATTERY_CHANGED : 2
+I/LGPowerUI( 1678): [LGPowerUI.java:611:batteryThermNotification()]batteryThermNotification temperature : 309 isPlugged : true isCharging : true
+I/LGPowerUI( 1678): [LGPowerUI.java:621:batteryThermNotification()]StopCharging degree: 550
+D/PowerUI ( 1678): [PowerUI.java:231:onReceive()]chargingCurrent 0 --> 0
+D/LGPowerUI( 1678): [LGPowerUI.java:953:handleMessage()]MSG_BATTERY_STATUS_THERM_DISMISS
+W/CellInfoLte( 1775): getCellIdentity: LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+W/CellInfoLte( 1963): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(27489): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/PhoneInterfaceManager( 1775): [PhoneIntfMgr] sigLevel = 0
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:55:onLayout()]================================
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:74:onLayout()]nTotalWidth = 522, r = 540
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:77:onLayout()]sum = 522, mIconSize = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:78:onLayout()]Notification 314==> 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:82:onLayout()]-----------------------
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{4241c690 G.E..... ......ID 9,0-9,38 #7f090078 app:id/operator_layout} ,w = 0
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:128:onLayout()]sum = 522
+W/CellInfoLte( 1775): getCellIdentity: LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1963): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+W/CellInfoLte(27489): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/PhoneInterfaceManager( 1775): [PhoneIntfMgr] sigLevel = 0
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:55:onLayout()]================================
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:74:onLayout()]nTotalWidth = 522, r = 540
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:77:onLayout()]sum = 522, mIconSize = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:78:onLayout()]Notification 314==> 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:82:onLayout()]-----------------------
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{4241c690 G.E..... ......ID 9,0-9,38 #7f090078 app:id/operator_layout} ,w = 0
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:128:onLayout()]sum = 522
+D/StatusBar.BatteryController( 1678): [BatteryController.java:126:onReceive()]level = 64 status = 2 isPlugged = true isCharging = true isFullCharged = false
+I/LGPowerUI( 1678): [LGPowerUI.java:611:batteryThermNotification()]batteryThermNotification temperature : 308 isPlugged : true isCharging : true
+D/KeyguardUpdateMonitor(  929): handleBatteryUpdate (2) (64)
+I/EmotionalLed( 1813): getCurrentHighestLGLedRecord() start. mLedList.size=1
+V/EmotionalLed( 1813): startInternal : pkg=batteryinfo, recordId=0 : LGLedRecord{42919888 flags=0 patternId=3 color=0 priority=-1 recordId=0 pkg=batteryinfo mExceptional=false mNativeNotification=false whichLedPlay=0}
+I/LGPowerUI( 1678): [LGPowerUI.java:621:batteryThermNotification()]StopCharging degree: 550
+D/DockTangibleController( 1800): ACTION_BATTERY_CHANGED : 2
+D/PowerUI ( 1678): [PowerUI.java:231:onReceive()]chargingCurrent 0 --> 0
+D/LGPowerUI( 1678): [LGPowerUI.java:953:handleMessage()]MSG_BATTERY_STATUS_THERM_DISMISS
+D/EmotionalLed( 1813): enqueuing start. mLedList.size()=0
+I/EmotionalLed( 1813): updateLightsLocked() start. mLedList.size=1
+D/EmotionalLed( 1813): enqueuing end. mLedList.size()=1
+D/StatusBar.BatteryController( 1678): [BatteryController.java:126:onReceive()]level = 64 status = 2 isPlugged = true isCharging = true isFullCharged = false
+D/DockTangibleController( 1800): ACTION_BATTERY_CHANGED : 2
+D/KeyguardUpdateMonitor(  929): handleBatteryUpdate (2) (64)
+I/LGPowerUI( 1678): [LGPowerUI.java:611:batteryThermNotification()]batteryThermNotification temperature : 309 isPlugged : true isCharging : true
+I/LGPowerUI( 1678): [LGPowerUI.java:621:batteryThermNotification()]StopCharging degree: 550
+D/PowerUI ( 1678): [PowerUI.java:231:onReceive()]chargingCurrent 0 --> 0
+D/LGPowerUI( 1678): [LGPowerUI.java:953:handleMessage()]MSG_BATTERY_STATUS_THERM_DISMISS
+W/CellInfoLte( 1775): getCellIdentity: LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+W/CellInfoLte( 1963): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+W/CellInfoLte(27489): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/PhoneInterfaceManager( 1775): [PhoneIntfMgr] sigLevel = 0
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:55:onLayout()]================================
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:74:onLayout()]nTotalWidth = 522, r = 540
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:77:onLayout()]sum = 522, mIconSize = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:78:onLayout()]Notification 314==> 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:82:onLayout()]-----------------------
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{4241c690 G.E..... ......ID 9,0-9,38 #7f090078 app:id/operator_layout} ,w = 0
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:128:onLayout()]sum = 522
+D/KeyguardUpdateMonitor(  929): handleTimeUpdate
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:55:onLayout()]================================
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:74:onLayout()]nTotalWidth = 522, r = 540
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:77:onLayout()]sum = 522, mIconSize = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:78:onLayout()]Notification 314==> 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:82:onLayout()]-----------------------
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{4241c690 G.E..... ......ID 9,0-9,38 #7f090078 app:id/operator_layout} ,w = 0
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:128:onLayout()]sum = 522
+D/DateLayout(  929): isFormat24Requested :true
+D/DateLayout(  929): hour :4	mintue :59
+D/DateLayout(  929): ampmTextClock : AM
+D/DateLayout(  929): setContentDescription :Monday, January 12 4 59
+D/DigitalClock(  929): isFormat24Requested :true
+D/DigitalClock(  929): hour :4	mintue :59
+D/DigitalClock(  929): ampmTextClock : AM
+D/DigitalClock(  929): setContentDescription :Monday, January 12 4 59
+D/KeyguardUpdateMonitor(  929): handleBatteryUpdate (2) (64)
+D/StatusBar.BatteryController( 1678): [BatteryController.java:126:onReceive()]level = 64 status = 2 isPlugged = true isCharging = true isFullCharged = false
+D/DockTangibleController( 1800): ACTION_BATTERY_CHANGED : 2
+I/LGPowerUI( 1678): [LGPowerUI.java:611:batteryThermNotification()]batteryThermNotification temperature : 307 isPlugged : true isCharging : true
+I/LGPowerUI( 1678): [LGPowerUI.java:621:batteryThermNotification()]StopCharging degree: 550
+D/PowerUI ( 1678): [PowerUI.java:231:onReceive()]chargingCurrent 0 --> 0
+D/LGPowerUI( 1678): [LGPowerUI.java:953:handleMessage()]MSG_BATTERY_STATUS_THERM_DISMISS
+W/CellInfoLte( 1775): getCellIdentity: LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1775): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte( 1963): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+W/CellInfoLte(  929): writeToParcel(Parcel, int): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+W/CellInfoLte(27489): CellInfoLte(Parcel): CellInfoLte: mRegistered=NO mTimeStampType=unknown mTimeStamp=9223372036854775807ns, LteCellIdentitiy:android.telephony.CellIdentityLte@7fffff65 mMcc=2147483647 mMnc=2147483647 mCi=2147483647 mPci=2147483647 mTac=2147483647, CellSignalStrengthLte: ss=2147483647 rsrp=2147483647 rsrq=2147483647 rssnr=2147483647 cqi=2147483647 ta=2147483647
+D/PhoneInterfaceManager( 1775): [PhoneIntfMgr] sigLevel = 0
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/LGPhoneStatusBarPolicy( 1678): [LGPhoneStatusBarPolicy.java:109:onReceive()]ACTION_SIGNAL_STRENGTH_CHANGED!!!
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+D/StatusBar.MSimNetworkController( 1678): isSimInserted(0), SimInserted=false
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:77:onLayout()]sum = 522, mIconSize = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:78:onLayout()]Notification 314==> 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:82:onLayout()]-----------------------
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{4241c690 G.E..... ......ID 9,0-9,38 #7f090078 app:id/operator_layout} ,w = 0
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:123:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:128:onLayout()]sum = 522
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:55:onLayout()]================================
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42420728 V.E..... ........ 9,0-323,38 #7f09007a app:id/notification_icon_area} ,w = 314
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42423f80 V.E..... ........ 323,0-359,38 #7f09007d app:id/statusIcons} ,w = 36
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:68:onLayout()]child = android.widget.LinearLayout{42424898 V.E..... ......ID 359,0-531,38 #7f09007e app:id/system_icon_area} ,w = 172
+I/StatusBarLinearLayout( 1678): [StatusBarLinearLayout.java:74:onLayout()]nTotalWidth = 522, r = 540
