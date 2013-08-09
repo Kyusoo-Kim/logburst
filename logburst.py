@@ -91,7 +91,7 @@ class LogCounter:
         tagCountChart.set_size({'width':1080, 'height':300})
         
 #logLevelChart
-        #logLevelChart = workbook.add_chart({'type':'column'})
+        
         worksheet2.write(0, 3, "Level")
         worksheet2.write(0, 4, "Count")
         
@@ -107,9 +107,57 @@ class LogCounter:
         worksheet2.write(4, 4, self.levelCount['W'])
         worksheet2.write(5, 4, self.levelCount['E'])
                          
-       
+        logLevelChart = workbook.add_chart({'type':'column'})
+        logLevelChart.set_x_axis({
+            'name' : 'Log level',
+            
+            'name_font':{
+                 'size':16,
+                 'bold':True
+                 },
+
+            'label_position':'none'
+            })
+        
+        logLevelChart.add_series({
+            'name':'Verbose',
+            'categories': '=Sheet2!$D$2',
+            'values': '=Sheet2!$E$2',
+            'fill': {'color':'black'}
+            })
+
+        logLevelChart.add_series({
+            'name':'Debug',
+            'categories': '=Sheet2!$D$3',
+            'values': '=Sheet2!$E$3',
+            'fill': {'color':'blue'}
+            })
+
+        logLevelChart.add_series({
+            'name':'Info',
+            'categories': '=Sheet2!$D$4',
+            'values': '=Sheet2!$E$4',
+            'fill': {'color':'green'}
+            })
+
+        logLevelChart.add_series({
+            'name':'Warning',
+            'categories': '=Sheet2!$D$5',
+            'values': '=Sheet2!$E$5',
+            'fill': {'color':'orange'}
+            })
+
+        logLevelChart.add_series({
+            'name':'Error',
+            'categories': '=Sheet2!$D$6',
+            'values': '=Sheet2!$E$6',
+            'fill': {'color':'red'}
+            })
+
+        logLevelChart.set_size({'width':1080, 'height':300})
         
         worksheet1.insert_chart('B2', tagCountChart)
+        worksheet1.insert_chart('B18', logLevelChart)
         workbook.close()
         
 
