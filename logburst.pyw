@@ -21,13 +21,51 @@ line_count = None
 level_count = None
 file_list = None
 
+
+
+### Time Calculation
+def get_timestamp(date_time):
+    time_tuple = datetime.datetime.strptime(date_time, "%Y-%m-%d %H:%M:%S.%f")
+    return(time_tuple.timestamp())
+
+def get_time_required(start, end):
+        start_timestamp = get_timestamp(start)
+        end_timestamp = get_timestamp(end)
+
+        return round( (end_timestamp - start_timestamp), 0 )
+
+def get_formated_time(required_seconds):
+        
+        hour = round(required_seconds/3600, 0)
+        remain_minutes = required_seconds % 3600
+        
+        minute = round(remain_minutes/60, 0)
+        remain_seconds = remain_minutes % 60
+        
+        second = remain_seconds % 60
+
+        formated_time = None
+
+        if(hour > 0):
+                formated_time = str(int(hour)) + 'h' + str(int(minute)) + 'm' + str(int(second)) + 's'
+        elif(minute > 0):
+                formated_time = str(int(minute)) + 'm' + str(int(second)) + 's'     
+        else:
+                formated_time = str(int(second)) + 's'
+
+        return(formated_time)
+
+
+
+
+
 def initData():
     global loglist, data, line_count, level_count, file_list
     
     loglist = []
     data = []
     line_count = 0
-    level_count = {'V':0, 'D':0, 'I':0, 'W':0, 'E':0}
+    level_count = {'V':0, 'D':0, 'I':0, 'W':0, 'E':0, 'F':0}
     file_list = []
     app.setProgress(0)
     app.btnOpen.config(state=NORMAL)
@@ -39,7 +77,7 @@ def get_data(file_list, parsing_type=1):
     global line_count
     for files in file_list:
         try:
-            with open(file=files, encoding='utf-8') as log_file:
+            with open(file=files, encoding='cp437') as log_file:
                 for each_line in log_file:
                     try:
                         normal_style1 = re.match(r'\s*(?P<date>\d\d-\d\d)\s+(?P<time>\d\d:\d\d:\d\d\.\d+)\s+(?P<level>\D)/(?P<tag>.+)\s*\(\s*(?P<pid>\d+)\)\:\s*(?P<log>.+)', each_line)                                        
@@ -82,18 +120,29 @@ def get_data(file_list, parsing_type=1):
                         
                     except ValueError as val_err:
                         pass
+
+                if date and time:
+                    time_info.end_time = str(datetime.datetime.now().year) + '-' + date + ' ' + time
+                    
         except IOError as io_err:
-            print(str(io_err)) 
+            print(str(io_err))
+        except UnicodeDecodeError as unicode_err:
+                        print(line_count)
+                        print(str(unicode_err))
 
 def addLog(tag, level, pid, text, date='', time=''):
-    level_count[level] = level_count[level] + 1
+    level_count[level] +=  1
 
     data.append({'tag':tag, 'level':level, 'pid':pid, 'text':text, 'date':date, 'time':time})        
 
     if len(loglist) == 0:
-        new_log =  {'tag':tag, 'count' : 1, 'level': {'V':0, 'D':0, 'I':0, 'W':0, 'E':0} }
+        new_log =  {'tag':tag, 'count' : 1, 'level': {'V':0, 'D':0, 'I':0, 'W':0, 'E':0, 'F':0} }
         new_log['level'][level] =  new_log['level'][level] + 1
         loglist.append(new_log)
+
+        if( len(date) > 0 and len(time) > 0 ):
+                time_info.start_time = str(datetime.datetime.now().year) + '-' + date + ' ' + time
+        
         return()
 
     find = False
@@ -104,17 +153,25 @@ def addLog(tag, level, pid, text, date='', time=''):
             find = True
     
     if not find:
-        new_log =  {'tag':tag, 'count' : 1, 'level': {'V':0, 'D':0, 'I':0, 'W':0, 'E':0} }
+        new_log =  {'tag':tag, 'count' : 1, 'level': {'V':0, 'D':0, 'I':0, 'W':0, 'E':0, 'F':0} }
         new_log['level'][level] =  new_log['level'][level] + 1
         loglist.append(new_log)
 
 def makeExcel(file_save, chart_limit=10):
 
+    log_data_column_width = [8, 12, 8, 26, 8, 120]
+    log_analysis_column_width = [25, 10, 5, 10, 10, 10, 10, 10, 10]
     
     workbook = xlsxwriter.Workbook(file_save)
     worksheet1 = workbook.add_worksheet('Data')
     worksheet2 = workbook.add_worksheet('Analysis')
     worksheet3 = workbook.add_worksheet('Chart')
+
+    for i in range(len(log_data_column_width)):
+        worksheet1.set_column(i,i, log_data_column_width[i])
+
+    for i in range(len(log_analysis_column_width)):
+        worksheet2.set_column(i,i, log_analysis_column_width[i])
 
     worksheet1.set_tab_color('red')
     worksheet2.set_tab_color('green')
@@ -130,6 +187,7 @@ def makeExcel(file_save, chart_limit=10):
     silver = workbook.add_format({'font_color':'silver'})
     blue = workbook.add_format({'font_color':'blue'})
     green = workbook.add_format({'font_color':'green'})
+    yellow = workbook.add_format({'font_color':'yellow'})
     orange = workbook.add_format({'font_color':'orange'})
     red = workbook.add_format({'font_color':'red'})
     
@@ -158,11 +216,12 @@ def makeExcel(file_save, chart_limit=10):
     worksheet2.write(0, 3, "Verbose", silver)
     worksheet2.write(0, 4, "Debug", blue)
     worksheet2.write(0, 5, "Info", green)
-    worksheet2.write(0, 6, "Warning", orange)
-    worksheet2.write(0, 7, "Error", red)
+    worksheet2.write(0, 6, "Warning", yellow)
+    worksheet2.write(0, 7, "Error", orange)
+    worksheet2.write(0, 8, "Fatal", red)
 
     worksheet2.freeze_panes(1, 0)
-    worksheet2.autofilter('A1:H1')
+    worksheet2.autofilter('A1:I1')
 
     
 
@@ -178,6 +237,7 @@ def makeExcel(file_save, chart_limit=10):
         worksheet2.write(i+1, 5, sorted_log_list[i]["level"]["I"])
         worksheet2.write(i+1, 6, sorted_log_list[i]["level"]["W"])
         worksheet2.write(i+1, 7, sorted_log_list[i]["level"]["E"])
+        worksheet2.write(i+1, 8, sorted_log_list[i]["level"]["F"])
         
 
     worksheet2.write(nr_logs+2, 0, "Total")
@@ -188,6 +248,7 @@ def makeExcel(file_save, chart_limit=10):
     worksheet2.write(nr_logs+2, 5, level_count['I'])
     worksheet2.write(nr_logs+2, 6, level_count['W'])
     worksheet2.write(nr_logs+2, 7, level_count['E'])
+    worksheet2.write(nr_logs+2, 8, level_count['F'])
     
 
     
@@ -199,8 +260,9 @@ def makeExcel(file_save, chart_limit=10):
                           'fill': {'color':'red'}
                           })
             
-        
-    tagCountChart.set_title({'name': 'Tag Count', 'name_font':{'size':20}})
+    required_time = get_time_required( time_info.start_time, time_info.end_time )
+    formated_time = get_formated_time(required_time)
+    tagCountChart.set_title({'name': 'Tag Count (' + formated_time + ')', 'name_font':{'size':20}})
     tagCountChart.set_x_axis({'num_font':{'size':16}})
     tagCountChart.set_y_axis({'num_font':{'size':16}})
     tagCountChart.set_legend({'position':'none'})
@@ -245,7 +307,7 @@ def makeExcel(file_save, chart_limit=10):
             'categories': '=Analysis!$G$1',
             'values': '=Analysis!$G$' + str(nr_logs+3),
             'data_labels':{'value':True},
-            'fill': {'color':'orange'}
+            'fill': {'color':'yellow'}
             })
 
     logLevelChart.add_series({
@@ -253,9 +315,16 @@ def makeExcel(file_save, chart_limit=10):
             'categories': '=Analysis!$H$1',
             'values': '=Analysis!$H$' + str(nr_logs+3),
             'data_labels':{'value':True},
-            'fill': {'color':'red'}
+            'fill': {'color':'orange'}
             })
 
+    logLevelChart.add_series({
+            'name':'Fatal',
+            'categories': '=Analysis!$I$1',
+            'values': '=Analysis!$I$' + str(nr_logs+3),
+            'data_labels':{'value':True},
+            'fill': {'color':'red'}
+            })
     
 
 
@@ -263,13 +332,14 @@ def makeExcel(file_save, chart_limit=10):
 
     logLevPieChart.add_series({
             'name': 'LogLevel',
-            'categories': '=Analysis!D1:H1',
-            'values': '=Analysis!D' + str(nr_logs+3) + ':H' + str(nr_logs+3),
+            'categories': '=Analysis!D1:I1',
+            'values': '=Analysis!D' + str(nr_logs+3) + ':I' + str(nr_logs+3),
             'data_labels':{'category':True, 'percentage':True,'leader_lines':True},
             'points': [
                     {'fill': {'color': 'silver'}},
                     {'fill': {'color': 'blue'}},
                     {'fill': {'color': 'green'}},
+                    {'fill': {'color': 'yellow'}},
                     {'fill': {'color': 'orange'}},
                     {'fill': {'color': 'red'}}
                 ]
@@ -302,7 +372,15 @@ def makeExcel(file_save, chart_limit=10):
     
     workbook.close()
     
-   
+
+class Data:
+    def __init__(self):
+        self.init_data()
+
+    def init_data(self):
+        self.start_time = None
+        self.end_time = None
+
 
 #GUI
 class App:
@@ -414,7 +492,7 @@ class App:
                 print( str( end.timestamp() - start.timestamp() ) + " sec" )
 
                 showinfo("Export", "Export result file!\n\n[" + file_save +"]")
-            
+                os.startfile(file_save)
             
             
             initData()
@@ -431,7 +509,7 @@ class App:
 
 
 
-    
+time_info = Data()    
 root = Tk()
 app = App(root)
 initData()
